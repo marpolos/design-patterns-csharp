@@ -17,3 +17,6 @@ O que é o concrete?
 Por que não seria legal somente utilizar o new?
 Porque se eu usasse o new teria baixa coesão e alto acoplamento, pois todo mundo precisaria conhecer as características do meu produto. Dessa forma o produto fica protegido, mas ainda pode existir.
 Nessa fábrica precisamos  de muitas classes porque cada comportamento diferente é uma nova implementação.
+
+<img width="1192" height="585" alt="image" src="https://github.com/user-attachments/assets/41adaffc-b0d5-458b-b048-ca0422573e14" />
+
