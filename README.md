@@ -1,9 +1,9 @@
 # design-patterns
 Implementações de exemplos de utilização dos padrões de projeto recomendados
 
-Métodos criacionais
+## Métodos criacionais
 
-Factory Method
+### Factory Method
 - Define a interface para a criação do objeto, mas as subclasses decidem qual classe instanciarão.
 - Escopo de classes porque utilizamos as classes para cumprir o que o padrão pede
 
@@ -21,6 +21,8 @@ Nessa fábrica precisamos  de muitas classes porque cada comportamento diferente
 
 <img width="1192" height="585" alt="image" src="https://github.com/user-attachments/assets/41adaffc-b0d5-458b-b048-ca0422573e14" />
 
-Abstract factory
+### Abstract factory
 - Escopo de objeto
 - Cria interface para criação de famílias de objetos relacionados sem especificar as classes concretas.
+
+<img width="1220" height="576" alt="image" src="https://github.com/user-attachments/assets/494caebf-7b10-4224-bdb3-539a686efafe" />
