@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../AbstractFactory/AbstractFactory.csproj" Id="26077142-2b76-45e3-ab0b-e2ac4a2e0415" />
   <Project Path="FactoryMethod.csproj" />
 </Solution>
