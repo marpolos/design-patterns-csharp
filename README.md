@@ -25,4 +25,5 @@ Nessa fábrica precisamos  de muitas classes porque cada comportamento diferente
 - Escopo de objeto
 - Cria interface para criação de famílias de objetos relacionados sem especificar as classes concretas.
 
-<img width="1220" height="576" alt="image" src="https://github.com/user-attachments/assets/494caebf-7b10-4224-bdb3-539a686efafe" />
+<img width="1118" height="567" alt="image" src="https://github.com/user-attachments/assets/72d1ef27-df8a-4f75-9ef5-d1ab5596e64f" />
+
