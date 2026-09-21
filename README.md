@@ -24,6 +24,13 @@ Nessa fábrica precisamos  de muitas classes porque cada comportamento diferente
 ### Abstract factory
 - Escopo de objeto
 - Cria interface para criação de famílias de objetos relacionados sem especificar as classes concretas.
+- Aqui criaremos uma família de itens dentro de determinado modelo.
 
 <img width="1118" height="567" alt="image" src="https://github.com/user-attachments/assets/72d1ef27-df8a-4f75-9ef5-d1ab5596e64f" />
+
+### Builder
+- Criamos variações de um mesmo produto.
+- Em vez de termos um construtor que às vezes pode confundir, criamos um builder para criar o objeto.
+<img width="762" height="414" alt="image" src="https://github.com/user-attachments/assets/308e4155-9d1a-48d9-a908-73e324a9fd49" />
+
 
