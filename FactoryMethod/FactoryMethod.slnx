@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="../AbstractFactory/AbstractFactory.csproj" Id="26077142-2b76-45e3-ab0b-e2ac4a2e0415" />
   <Project Path="../Builder/Builder.csproj" Id="452ba185-2d8e-469f-8e7f-4e0acbc0a5ea" />
+  <Project Path="../Prototype/Prototype.csproj" Id="24db7736-2318-478f-b7df-4e99d01f4d67" />
   <Project Path="FactoryMethod.csproj" />
 </Solution>
