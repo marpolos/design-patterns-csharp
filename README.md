@@ -31,6 +31,14 @@ Nessa fábrica precisamos  de muitas classes porque cada comportamento diferente
 ### Builder
 - Criamos variações de um mesmo produto.
 - Em vez de termos um construtor que às vezes pode confundir, criamos um builder para criar o objeto.
+- Aqui o objeto é sempre novo, ele não pega o que o outro é. Porque é parecido com o Prototype, mas diferencia nesse ponto.
 <img width="762" height="414" alt="image" src="https://github.com/user-attachments/assets/308e4155-9d1a-48d9-a908-73e324a9fd49" />
+
+### Prototype
+- Criamos clones de um objeto que já existe
+- Dependendo de como implementamos o método de clonagem teremos um objeto fazendo referência ao original ou um objeto que copiou e colou e se tornou independente.
+- Temos um exemplo interessante nesse caso porque se nossas propriedades são value type, tipos puros, os objetos ficam estáticos, de forma que o shallow copy se comporta muito parecido com o deep copy. A diferença ocorre quando temos objetos aninhados, isto é, complexos.
+<img width="949" height="683" alt="image" src="https://github.com/user-attachments/assets/7a68f2a5-2ca0-4da9-8d38-585c23957d59" />
+
 
 
